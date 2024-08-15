@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const layout = 'div'
 
-const test 									
+const test
 </script>
 
 <template>
