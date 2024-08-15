@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "precommit-msg": "echo 'Pre-commit checks...' && exit 0"
   },
-  "pre-commit": [ "precommit-msg", "lint" ],
+  "pre-commit": [ "pnpm run precommit-msg", "pnpm run lint" ],
   "dependencies": {
     "vue": "^3.4.37"
   },
