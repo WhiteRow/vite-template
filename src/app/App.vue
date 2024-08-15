@@ -3,7 +3,7 @@ const layout = 'div'
 
 const test = 1
 
-test = 2afsasf
+test = 2afsasfasfasf
 </script>
 
 <template>
