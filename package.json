@@ -22,7 +22,7 @@
     "vue-tsc": "^2.0.29"
   },
   "simple-git-hooks": {
-    "pre-commit": "pnpm run lint"
+    "pre-commit": "pnpm lint-staged"
   },
   "lint-staged": {
     "*": "pnpm run lint"

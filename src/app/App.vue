@@ -1,7 +1,9 @@
 <script setup lang="ts">
 const layout = 'div'
 
-const test          
+const test = 1
+
+test = 2
 </script>
 
 <template>
